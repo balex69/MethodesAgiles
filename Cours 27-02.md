@@ -34,11 +34,11 @@ Jeudi : Cas pratique de groupe et présentation
 
 ## Introduction à la gestion de projet
 
-1. Définir ce qu'est un projet  
-2. Définir la gestion de projet  
-3. Identifier les phases du cycle de vie d'un projet  
-4. Comprendre la "triple contrainte"  
-5. Comprendre l'environnement de projet  
+1. <a href="#quest-ce-quun-projet">Définir ce qu'est un projet</a>  
+2. <a href="#Définir-la-gestion-de-projets">Définir la gestion de projet</a>
+3. Identifier les phases du cycle de vie d'un projet
+4. Comprendre la "triple contrainte"
+5. Comprendre l'environnement de projet
 
 <hr>
 
