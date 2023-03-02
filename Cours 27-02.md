@@ -135,7 +135,7 @@ Les comportements de l'équipe de gestion de projet : détection & diagnostic, r
 
 ## Jalons
 
-<img src="Cours 27-02_schéma.png" alt="schéma"/>
+<img src="images/schema_jalons.png" alt="schéma jalons"/>
 
 Déterminer pour chaque phase si terminée ou non, si passage à la phase suivante ou non  
 Si pendant besoin No Go : rejet du projet (ou requalification?)  
@@ -257,7 +257,12 @@ Combine l'itératif et l'incrémental pour livrer des produits de qualité, rapi
 - Kanban
 - Lean Software Development
 
-## QCM
+<hr>
+<br>
+
+<details>
+<summary>**QCM (à ouvrir)**</summary>
+<br>
 1- Parmis ces propositions, quelles sont les étapes dans l’ordre de la gestion de projet séquentiel ?  
 - ~~Tester, coder, concevoir, définir~~  
 - ~~Planifier, écrire, coder, tester~~  
@@ -330,6 +335,9 @@ Combine l'itératif et l'incrémental pour livrer des produits de qualité, rapi
 - ~~10~~  
 - **12**  
 - ~~16~~  
+
+</details>
+<br>
 
 <hr>
 
@@ -435,6 +443,8 @@ Objectif: Mise en pratique de la méthode Lean startup.
 Permettre de formaliser votre vision de manière simple avec la possibilité de revenir autant de fois pour ajuster, enrichir, faire un pivot etc.
 
 KPI = Key Performance Indicators
+
+<img src="images/lean-canvas.jpg" alt="schéma type lean canvas">
 
 
 ## Site mapping
@@ -549,7 +559,13 @@ Dialogue sur le vécu du sprint pour améliorer les suivants
 - Feedback
 - Proposition d'axes d'amélioration
 
-### QCM Agilité  
+<hr>
+<br>
+
+<details>
+<summary>**QCM Agilité (à dérouler)**</summary>  
+<br>
+
 1- Qu'est-ce que les méthodes agiles ?  
 Une chaîne de podcasts sur les startups et le growth hacking  
 Un programme d'étirements pour se sentir bien dans son corps et mieux gérer le stress  
@@ -642,4 +658,9 @@ La rétrospective
 16- Quand à lieu la rétrospective ?  
 Avant le sprint, pour partir sur de bonnes bases  
 Au milieu du sprint, pour faire le point et améliorer ce qui doit l’être  
-**Après la revue, pour revenir sur le déroulé du sprint**  
+**Après la revue, pour revenir sur le déroulé du sprint**
+</details>
+<br>
+<hr>
+<br>
+
