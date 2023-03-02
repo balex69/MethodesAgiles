@@ -135,7 +135,7 @@ Les comportements de l'équipe de gestion de projet : détection & diagnostic, r
 
 ## Jalons
 
-<img src="images/schema_jalons.png" alt="schéma jalons"/>
+![Schéma Jalons](images/schema_jalons.png)
 
 Déterminer pour chaque phase si terminée ou non, si passage à la phase suivante ou non  
 Si pendant besoin No Go : rejet du projet (ou requalification?)  
@@ -421,8 +421,12 @@ Si certains éléments ne figurent pas et vous semblent être pertinent à inté
 
 Vous pouvez vous appuyer sur la documentation transmise hier, faire des recherches sur internet.
 ```
+<hr>
+<br>
 
-https://docs.google.com/document/d/1DRR3JGCFjYnOYjZKmYuvUA458FdD6igIhP781lsgaw0/edit
+[Projet fil rouge groupe 3 (AirBnb)](https://docs.google.com/document/d/1DRR3JGCFjYnOYjZKmYuvUA458FdD6igIhP781lsgaw0/edit)
+
+<hr>
 
 # Le Lean Startup
 
@@ -444,7 +448,7 @@ Permettre de formaliser votre vision de manière simple avec la possibilité de 
 
 KPI = Key Performance Indicators
 
-<img src="images/lean-canvas.jpg" alt="schéma type lean canvas">
+![Schéma type du Lean Canvas](images/lean-canvas.jpg)
 
 
 ## Site mapping
@@ -663,4 +667,158 @@ Au milieu du sprint, pour faire le point et améliorer ce qui doit l’être
 <br>
 <hr>
 <br>
+
+## Récap
+
+Recueil du besoin client  
+Identification du problème  
+Problème récurrent? Gd nb de personnes? Engendrer d'autres problèmes?  
+Questionnaire utilisateur : ce qu'ils veulent (+ d'arguments = mieux car on comprend mieux les besoins)  
+Shadowing = aller dans l'écosystème pour voir l'utilisation faite et les besoins/frustrations (pas d'intéraction, uniquement de l'observation)  
+Persona = archétype d'utilisateur pour lequel on cherche à répondre à un besoin spécifique - se mettre à leur place et se poser leurs questions (qu'est-ce que j'aurai aimé à leur place)  
+
+
+### Story mapping
+
+Visualisation de l'ensemble des fonctionnalités que l'on veut/va avoir  
+Ne pas dire "je veux une solution de paiement"; indiquer chaque fonctionnalité voulue pour faciliter le travail de l'équipe dev  
+Trouver des thèmes et répertorier les fonctionnalités (from MVP to final product)  
+
+User stories = besoin le plus minimal produit par l'utilisateur
+
+### Site mapping
+
+Arborescence du site (avec les fonctionnalités accessibles à chaque endroit)
+
+### Scrum
+
+Méthode agile qui favorise le travail collaboratif pour atteindre un objectif commun (comparer au Rugby)  
+Rôles & cérémonies  
+
+Outils :  
+
+Excel  
+Bug Report & Track  
+Terllo  
+Miro  
+Productboard  
+Monday  
+Frameboard  
+Agile Project Management (Eclipse Plugin, IceScrum, Jira, ScrumWorks)  
+Notion  
+
+[Lien vers l'enregistrement fait par Walid]()
+
+# User Story  
+
+User Story = Phrase simple, rédigée dans un langage courant, qui permet de décrire avec suffisamment de précision le contenu d'une fonctionnalité à développer  
+
+Epic = Feature = Fonctionnalités
+
+![Schéma exemple pour User Story](images/exemple-user_story.jpg)
+
+<br>
+
+User story fonctionnelle = Morceau de fonctionnalité visible pour un utilisateur pour obtenir un feedback  
+Remboursement de dette technique = Travailler sur ce qui n'est pas terminer pour ne pas accumuler du retard  
+User story technique = Travail non visible pour l'utilisateur  
+Correction de bugs = Corriger une imperfection qui nuirait à l'utilisation d'une fonctionnalité  
+
+Rédaction d'user story : travail de synthèse
+- A responsabilité unique : Une US ne doit pouvoir faire qu'une seule chose, avoir une seule responsabilité
+
+
+
+User story xx/  
+ID: XXXX - Valeur: X - Type: Story (fonctionelle etc)  
+Titre: X  
+En tant que ...  
+Je veux ...  
+Feature: ...  
+
+## Pertinence : grille INVEST
+
+- Indépendante : indépendantes des unes des autres
+- Négociable : pas un contrat, petit descriptif d'une fonctionnalité (pour entamer une discussion pour négocier les détails)
+- Valuable : doit apporter de la valeur
+- Estimable : l'estimation des US permet de préparer les sprints/releases
+- Small : plus elle est petite, plus facilement on peut l'estimer (une seule fonctionnalité ou responsabilité)
+- Testable : US courtes et testables sont la clé d'une bonne intégration
+
+## Moscow : Priorité des US
+
+- **M**ust have : indispensables
+- **S**hould have : importantes
+- **C**ould have : confort
+- **W**ant to have but won't have : souhaitables mais reportées
+
+## SMART : synthèse
+Plutôt utilisé pour la partie "tâche" des US
+
+- Spécifique
+- Mesurable
+- Acceptable
+- Réaliste
+- Temporellement définie
+
+
+### Régler les conflits de priorité
+
+Planning poker :  
+Chacun s'assies autout d'une table  
+Explication du scénario  
+Séance de Questions/Réponses au responsable du produit (PO) (pour encadrer le "terminé" du produit)  
+Chaque personne place une carte  
+Si unanimité, OK, sinon re-discussion etc  
+
+
+## Critères d'acceptation
+
+- Rappeler en quoi consiste le besoin
+- Indiquer les validations à effectuer pour s'assurer que le besoin est rempli
+
+### Definition of Ready (DOR)
+
+Vérification que les US d'un sprint soient présentables (intégrables dans le sprint backlog)  
+Critères qui déterminent si US prête ou non  
+S'appuie en général sur INVEST (affirmer qu'US est ok pour le développement)  
+Doit respecter les 6D :
+- Désirable : apporter de la valeur
+- Décomposée : doit être petite (!= epic)
+- Débattue : discutée en équipe
+- Dérisquée : risques limités
+- Défini de fini : on sait quand elle sera terminée
+- Démontrable : peut être présentée en fin de sprint lors de la review (démo)
+
+### Definition of Done (DOD)
+
+Qualité de l'implémentation + traitement de toutes les US
+- UT réalisés avec succès
+- Code review
+- Documentation tech mise à jour
+
+## Burndown chart
+
+Indicateur clé de suivi; suivre l'évolution du produit sur un sprint  
+Voir si le rythme estimé est respecté/respectable  
+Périmète du sprint; tâches réalisées dans le sprint
+
+## Burnup chart
+
+Matérialisation l'ensemble des sprints par rapport au projet  
+Vélocité permet de savoir comment on avance sur le projet (pas indicateur de performance)  
+(en moyenne : **4** sprints pour que l'équipe atteigne une vélocité de 100%)
+
+
+![Schéma du release planning](images/release-planning.jpg)
+
+# Kanban
+
+Méthode de travail collectif basé sur la visualisation et la limitation du travail en cours et l'amélioration incrémentale qui trouve sa place dans de nombreuses organisations (adaptée aux contextes présentant beaucoup d'incertitudes)  
+
+Méthodologie de gestion du changement qui permet d'améliorer la façon de travailler, s'appuyant sur la visualisation du flux de travail  
+Limiter le volume maximum de tâches en cours à une des étapes du flux permet de désengorger le système et fluidifer la réalisation des tâches  
+Méthodes Kanban gagnent à être complétée par d'autres pratiques agiles comme le Stand-up meeting
+
+![Exemple pour le Kanban](images/schema-kanban-2.jpg)
 
