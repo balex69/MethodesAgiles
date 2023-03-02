@@ -3,7 +3,7 @@
 Formateur : William MESSI  
 
 Lundi - mercredi : Cours  
-Jeudi - vendredi : présentations et préparation à la certification  
+Jeudi - vendredi : Présentations et préparation à la certification  
   
 Lundi : Théorie  
 Mardi : Théorie  
@@ -14,31 +14,31 @@ Jeudi : Cas pratique de groupe et présentation
 
 09h00 - 10h45 : En formation  
 10h45 - 11h00 : Pause café  
-11h00 - 12h30 : formation  
+11h00 - 12h30 : Formation  
 12h30 - 13h30 : Pause dej  
-13h30 - 15h45 : formation  
-15h45 - 16h00 : pause café  
+13h30 - 15h45 : Formation  
+15h45 - 16h00 : Pause café  
 16h00 - 17h00 : Formation  
 <hr>
 
 # Description du module de formation
 
-Introduction à la gestion de projet  
-Introduction à l'agilité  
-Découverte  
-Les méthodes agiles  
-Mise en place d'un projet  
-Clôture
+- Introduction à la gestion de projet  
+- Introduction à l'agilité  
+- Découverte  
+- Les méthodes agiles  
+- Mise en place d'un projet  
+- Clôture
 
 <hr>
 
 ## Introduction à la gestion de projet
 
-01 - Définir ce qu'est un projet  
-02 - Définir la gestion de projet  
-03 - Identifier les phases du cycle de vie d'un projet  
-04 - Comprendre la "triple contrainte"  
-05 - Comprendre l'environnement de projet  
+1. <a href="#quest-ce-quun-projet">Définir ce qu'est un projet</a>  
+2. <a href="#Définir-la-gestion-de-projets">Définir la gestion de projet</a>
+3. Identifier les phases du cycle de vie d'un projet
+4. Comprendre la "triple contrainte"
+5. Comprendre l'environnement de projet
 
 <hr>
 
@@ -49,7 +49,7 @@ Des projets dans la vie de tous les jours
 Prendre en considération un ensemble de paramètres (projet de voyage ou de mariage par exemple)  
 Périmètre, contexte + budget + délai
 
-Projet : Entreprise temporaire décidée dans le but de créer un proedyut, un service ou un résultat unique.
+Projet : Entreprise temporaire décidée dans le but de créer un produit, un service ou un résultat unique.
 
 ## Qu'est-ce qu'un projet?
 
@@ -57,11 +57,11 @@ Projet : Entreprise temporaire décidée dans le but de créer un proedyut, un s
 
 Début et fin explicites  
 
-Fins possibles :  
-objectifs du projet atteints  
-Les objectifs du projet ne seront pas ou ne peuvent pas être atteints  
-Les besoins n'existent plus  
-Le client souhaite terminer le projet  
+Fins possibles :
+- Objectifs du projet atteints  
+- Les objectifs du projet ne seront pas ou ne peuvent pas être atteints  
+- Les besoins n'existent plus  
+- Le client souhaite terminer le projet  
 
 ### Utilisation des ressources
 
@@ -70,7 +70,7 @@ Affectés spécifiquement aux activités du projet
 
 ### Résultat unique
 
-Création d'un résultat nouveau, distinctif de tout autre résultat similaire
+Création d'un résultat nouveau, distinctif de tout autre résultat similaire.
 
 
 ## Projet vs Opération
@@ -110,16 +110,16 @@ Objectifs précis définis?
 
 # Définir la gestion de projets
 
-L'application de connaissances ,de compétences, d'outils et de techniques auxx activités de projet afin d'en respecter les exigences
+L'application de connaissances ,de compétences, d'outils et de techniques aux activités de projet afin d'en respecter les exigences.
 
 ## Le recueil des besoins
 
-Cela se fait principalement par le cahier des charges
+Cela se fait principalement par le cahier des charges.
 
-Deux éléments clé pour le succès de tout projet :
+Deux éléments-clés pour le succès de tout projet :
 
-- La prise en compte des exgiences concurrentes entre le contenu, les délais et les coûts  
-  Pourquoi en a-t-il besoin, comment lui ou ses clients utilisaient le service
+- La prise en compte des exgiences concurrentes entre le contenu, les délais et les coûts.  
+  Pourquoi en a-t-il besoin, comment lui ou ses clients utilisaient le service ?
 - L'intégration d'une gestion des risques, de la qualité, des ressources et des parties prenantes
 
 ## La réalité :
@@ -131,15 +131,11 @@ Chaque projet comportera son lot de
 
 Les trois contraintes sont intimement liées
 
-Les comportements de l'équipe de gestion de projet : détection & diagnostic, recommendations et obtenir une approbation
+Les comportements de l'équipe de gestion de projet : détection & diagnostic, recommendations et obtenir une approbation.
 
 ## Jalons
 
-Besoin (Clarifier un problème/besoin)  
-Initiation (Identifier un problème et évaluer son importance)  
-Planification (Décider quoi faire et comment le faire)  
-Réalisation (Conception, réalisations, test et déploiement)  
-Clôture (du projet et leçons apprises)  
+<img src="Cours 27-02_schéma.png" alt="schéma"/>
 
 Déterminer pour chaque phase si terminée ou non, si passage à la phase suivante ou non  
 Si pendant besoin No Go : rejet du projet (ou requalification?)  
@@ -233,23 +229,23 @@ Cycle en V
 
 Méthode en cascades (classiques)
 
-Le client fourni une liste d'exigences au préalable avec deadline
+Le client fourni une liste d'exigences au préalable avec deadline.
 
 <hr>
 
 ## A retenir :
 (Gestion de projets - familles)
 ### Cycle de vie prédictif
-Approche plus traditionelle; planification au préalable; puis en une seule fois (séquentiel)
+Approche plus traditionelle; planification au préalable; puis en une seule fois (séquentiel).
 
 ### Cycle de vie itératif
-Approche valorisant le retour d'information pour le travail inachevé
+Approche valorisant le retour d'information pour le travail inachevé.
 
 ### Cycle de vie incrémental
-Approche offrant des livrables finis que le client peut utiliser immédiatement
+Approche offrant des livrables finis que le client peut utiliser immédiatement.
 
 ### Cycle de vie Agile
-Combine l'itératif et l'incrémental pour livrer des produits de qualité, rapidement
+Combine l'itératif et l'incrémental pour livrer des produits de qualité, rapidement.
 
 <hr>
 
@@ -647,4 +643,3 @@ La rétrospective
 Avant le sprint, pour partir sur de bonnes bases  
 Au milieu du sprint, pour faire le point et améliorer ce qui doit l’être  
 **Après la revue, pour revenir sur le déroulé du sprint**  
-
