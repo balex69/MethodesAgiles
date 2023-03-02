@@ -765,7 +765,7 @@ Plutôt utilisé pour la partie "tâche" des US
 ### Régler les conflits de priorité
 
 Planning poker :  
-Chacun s'assies autout d'une table  
+Chacun s'assied autout d'une table  
 Explication du scénario  
 Séance de Questions/Réponses au responsable du produit (PO) (pour encadrer le "terminé" du produit)  
 Chaque personne place une carte  
