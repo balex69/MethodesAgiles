@@ -225,6 +225,7 @@ Assumer les changements >> suivre un plan rigoureux
 - L'équipe réfléchit constamment à si elle peut devenir plus efficace
 
 <hr>
+Cycle en V
 
 Méthode en cascades (classiques)
 
@@ -233,7 +234,7 @@ Le client fourni une liste d'exigences au préalable avec deadline.
 <hr>
 
 ## A retenir :
-
+(Gestion de projets - familles)
 ### Cycle de vie prédictif
 Approche plus traditionelle; planification au préalable; puis en une seule fois (séquentiel).
 
@@ -252,40 +253,393 @@ Combine l'itératif et l'incrémental pour livrer des produits de qualité, rapi
 - Scrum
 - SAFe
 - Lean Startup
+- XP
+- Kanban
+- Lean Software Development
 
-### QCM
-1 D - Réponse: **D**
+## QCM
+1- Parmis ces propositions, quelles sont les étapes dans l’ordre de la gestion de projet séquentiel ?  
+- ~~Tester, coder, concevoir, définir~~  
+- ~~Planifier, écrire, coder, tester~~  
+- ~~Fiesta,concevoir, coder, tester~~  
+- **Définir, concevoir, coder et tester**  
 
-2 C - Réponse: **C**
+2- Un cahier des charges est un document …  
+- ~~Fatiguant~~  
+- ~~Fast and furious~~  
+- **Contractuel**  
 
-3 BCD - Réponse: **BCD**
+3- Un cahier des charges peut contenir …..  
+- ~~Les attentes du coach~~  
+- **Les besoins et les attentes du client**  
+- **Les fonctionnalités**  
+- **Les maquettes**  
 
-4 BC - Réponse: **B** Cahier des charges est préalable au dialogue
+4- Un cahier des charges est un document qui va vous permettre de …..  
+- ~~Construire une pyramide~~  
+- **S’accorder sur les besoins du client**  
+- ~~Etablir un dialogue avec le client~~  
 
-5 A - Réponse: **A**
+5- La maîtrise d’ouvrage (MOA) désigne aussi …  
+- **Le client**  
+- ~~Le prestataire~~  
+- ~~L’expéditeur~~  
 
-6 A - Réponse: **A**
+6- La maîtrise d’oeuvre (MOE) désigne aussi …  
+- **Le prestataire**  
+- ~~Le client~~  
+- ~~Le coach de sport~~  
 
-7 A - Réponse: **A**
+7- Dans une approche séquentielle, le chef de projet doit terminer 100% de ses spécifications fonctionnelles avant que les équipes de développement commence à développer  
+- **Vrai**  
+- ~~Faux~~  
 
-8 C - Réponse: **C**
+8- Quelle est la triple contrainte d’un projet séquentiel ?
+- ~~Budget, luxe, délai~~
+- ~~Délai, improvisation, périmètre~~
+- **Périmètre, délai, coûts**
 
-9 CD - Réponse: **C** 
+9- Qu'est-ce que les méthodes agiles ?  
+- ~~Une chaîne de podcasts sur les startups et le growth hacking~~  
+- ~~Un programme d'étirements pour se sentir bien dans son corps et mieux gérer le stress~~  
+- **Une approche itérative, collaborative et adaptive capable de considérer les besoins du client et ceux liés aux évolutions**  
+- ~~Une méthodologie de développement de produits à haute performance~~
 
-10 D - Réponse: **D**
+10- Quel est le nom du document de référence des méthodes agiles ?  
+- ~~Le recueil d'agilité~~  
+- ~~Le livre d'Achille~~  
+- ~~Le guide de l'Agilité~~  
+- **Le manifeste Agile**  
 
-11 C - Réponse: **C**
+11- Quand a été publié le manifeste Agile ?  
+- ~~2012~~  
+- ~~2010~~  
+- **2001**  
+- ~~2005~~  
 
-12 B - Réponse: **B**
 
-13 C - Réponse: **C**
+12- Laquelle de ces propositions ne fait pas partie de la liste des 4 valeurs fondamentales du manifeste Agile ?  
+- ~~L'adaptation au changement~~  
+- **Le travail avant l'homme**  
+- ~~La collaboration avec les clients~~  
+- ~~Des logiciels opérationnels~~  
+
+
+13- Combien de principes fondateurs contient le manifeste Agile ?  
+- ~~4~~  
+- ~~10~~  
+- **12**  
+- ~~16~~  
 
 <hr>
+
+### Récap
+
+Contractuel = vous protège
+
+Cabinet pour aider à la rédaction du cahier des charges : AMO (Assistance à la maîtrise d'ouvrage)
+
+Séquentiel (trad/classique) plus propice aux projets avec cahier des charges strict et grosse prédictibilité; similarités avec course de relai : une étape après l'autre  
+Cycle en V : apporte plus d'immédiateté
+
+MVP = Minimal Viable Product (produit minimal viable -- version minimaliste d'un produit)
+
+<hr>
+
+# La découverte
+
+- Analyser les tendances du marché
+- Interview & shadowing (immersion dans l'écosystème du client de pouvoir comprendre ce que l'user fait du produit, ses habitudes : observation ++)
+- Formaliser les résultats de ta recherche utilisateur sous forme de Persona
 
 ## Identifier un problème
 - Touche un grand nombre de personnes
 - Problème récurrent
 - Sa résolution ne crée pas d'autres contraintes
 
-Shadowing = Filature
-Suivre, retracer; diagnostiquer en reproduisant les mêmes étapes.
+Les 5 pourquoi :
+
+QQOQCP (équivalent 5W) (faire un état des lieux du problème dans le but) : se baser sur les dires du client
+
+Feature table : lister l'ensemble des fonctionnalités sur le produit et indiquer qu'on a + ce qu'ont les concurrents  
+Retour du besoin du client : faire également sa propre recherche  
+But : étudier l'écosystème dans lequel on va se lancer
+
+## Persona 
+
+Objectif : Avoir une meilleure idée des problèmes rencontrés par les utilisateurs pour chercher à les résoudre entièrement ou en partie avec notre produit
+
+Principe : développer de l'empathie avec les utilisateurs en se mettant dans leur peau
+
+Comment le remplir : pour chaque utilisateur type du produit identifié lors de la recherche préalable
+
+Définir : l'identité, sa vie, ses habitudes, ses frustrations, ses motivations
+
+https://www.hubspot.fr/make-my-persona
+
+```
+Mise en place d’un projet Agile
+-- projet fil rouge pour l'agilité --
+
+En groupe vous réalisez une application semblable à celle d’ Airbnb.
+
+Pour ce projet fil rouge, vous allez collaborer ensemble à chaque étapes afin d’identifier et de produire les éléments de chaque étape.
+
+Pour ça vous réaliserez :
+
+Faire un recueil du besoin
+
+Un persona
+
+Feature table
+
+Vous remplissez le Lean Canvas 
+
+Vous réalisez un site mapping de votre solution
+
+Penser le produit en réalisant le story mapping
+
+Rédiger 2 User stories
+
+
+# N.B/ Vous simulez ce projet. Ne pensez pas aux fonctionnalités dans l’immédiat.
+
+# Objectif de cette mise en pratique:
+  - Manipuler et se familiariser avec les concepts évoqués
+  - Etre capable de justifier ses choix de méthodes à chaque étapes de votre projet
+
+# Bon à savoir/ 
+Si certains éléments ne figurent pas et vous semblent être pertinent à intégrer dans votre projet, vous pouvez le faire.
+
+Vous pouvez vous appuyer sur la documentation transmise hier, faire des recherches sur internet.
+```
+
+https://docs.google.com/document/d/1DRR3JGCFjYnOYjZKmYuvUA458FdD6igIhP781lsgaw0/edit
+
+# Le Lean Startup
+
+Par Eric Ries  
+Méthode connue pour valider de façon itérative une offre, un produit ou un service auprès de la clientèle
+
+On n'avance pas tête baissée dans le développement des fonctionnalités, ergonomie etc de votre produit ou service
+
+Idée -> Construire un MVP (produit minimum viable) -> Mesurer retours utilisateurs -> Apprendre -> Prise de décision (Pivot/Ajustement)
+
+État d'esprit, alerte quand on veut développer. Penser à avoir une approche itérative pour pouvoir aller rapidement confronter le produit aux clients potentiels
+
+## Lean Canvas
+
+Ash Maurya (USA 2010)
+
+Objectif: Mise en pratique de la méthode Lean startup.
+Permettre de formaliser votre vision de manière simple avec la possibilité de revenir autant de fois pour ajuster, enrichir, faire un pivot etc.
+
+KPI = Key Performance Indicators
+
+
+## Site mapping
+
+Architecture modélisée du site internet et des ressources trouvées sur le site internet
+
+## Roadmap
+
+Avec date, membres, progress
+Définition
+
+# Scrum
+
+Cadre de travail agile (framework) qui permet à une équipe de collaborer pour atteindre un objectif commun
+
+- Transparence
+- Inspection
+- Adaptation
+
+## Sprint
+
+Cycle de développement; bloc de temps de durée fixe (2 à 4 semaines); un incrément du produit par cycle
+
+## Rôles
+
+Responsabilités affectées à chaque personne de l'équipe
+
+- Product Owner  
+  Responsable produit; à l'écoute des clients; oriente le travail de l'équipe sur l'approche à avoir pour apporter une solution; définit les priorités; accepte ou rejette les résultats
+- Scrum Master  
+  Responsable de la mise en oeuvre des valeurs et des pratiques du scrum; va fédérer l'équipe; vérifier que l'équipe a les ressources nécessaires pour réaliser son objectif
+- Dev Team  
+  Responsable du développement des fonctionnalités et contribue aux fonctionnalités
+
+### Rôles non scrum
+
+**Growth Specialist** (Spécialiste croissance)  
+  Responsable croissance du produit (marketing)  
+  Identification des actions pertinentes pour générer de la croissance  
+  Suivi des résultats
+
+**Data Specialist** (Spécialiste données)  
+Construire l'architecture permettant la collecte des données  
+Co-décisions sur la définition des KPI  
+Traitement des données  
+
+**Design**  
+Gérer la recherche utilisateur / cohérence visuelle
+
+**QA**  
+Empêcher bugs et/ou rupture de service  
+Conception/réalisation des tests  
+
+
+## Artéfacts
+
+Ensemble des informations clés que l'équipe SCRUM et les parties prenantes doivent connaîtres sur l'avancement du produit
+
+Product backlog : ensemble des fonctionnalités que l'on voudrait développer pour le produit 
+
+Sprint backlog : ensemble des éléments jugés prioritaires et prêts à être développés
+
+Incrément : résultat du travail effectué pendant le sprint
+
+## Cérémonies
+
+Moments ayant pour objectif d'organiser le travail en équipe
+
+### Planification
+
+Première réunion avant chaque sprint.  
+~1-2 heures; toute l'équipe y participe
+
+- Revue des users stories (déjà dans le backlog)
+- Sélection des stories à mettre dans le sprint
+- Définition de l'ensemble des tâches de développement
+- Définir un responsable pour chaque stories
+
+### Daily meeting (scrum)
+
+~15 mins; en début de journée; heure fixe; animée par scrum master
+
+- Ce qu'on a fait la veille
+- Ce qu'on va faire ajd
+- Ce qui pose problème
+
+### Réunion d'affinage
+
+Réu quotidienne (par scrum master); heure fixe
+~1-2 heures; 1 à 2 fois par sprint
+
+- Présentation des stories à retravailler
+- Questions sur chaque stories
+- Estimation si OK sinon retravailler
+
+### Revue du sprint
+
+Fin de sprint;
+~1-2h; visibilité sur l'avancée, feedback
+
+- Revue de sprint
+- Objectifs du sprint
+- Feedbacks
+- Roadmap
+
+### Rétrospective
+
+Dialogue sur le vécu du sprint pour améliorer les suivants
+~1-2h; chaque fin de sprint
+
+- Ouverture du sprint
+- Feedback
+- Proposition d'axes d'amélioration
+
+### QCM Agilité  
+1- Qu'est-ce que les méthodes agiles ?  
+Une chaîne de podcasts sur les startups et le growth hacking  
+Un programme d'étirements pour se sentir bien dans son corps et mieux gérer le stress  
+**Une approche itérative, collaborative et adaptive capable de considérer les besoins du client et ceux liés aux évolutions**  
+Une méthodologie de développement de produits à haute performance  
+
+2- Quel est le nom du document de référence des méthodes agiles ?  
+Le recueil d'agilité  
+Le livre d'Achille  
+Le guide de l'Agilité  
+**Le manifeste Agile**  
+
+3- Quel est le rôle d'un scrum master ?  
+Faire du développement informatique  
+Gérer les projets des clients grands comptes  
+**Aider une équipe à appliquer les méthodes agiles**  
+Maintenir une bonne ambiance au sein des salariés  
+
+4- Lequel de ces termes ne fait pas partie des différents rituels de la méthode Scrum ?  
+La rétrospective  
+Le sprint planning  
+**Le rétroplanning**  
+Le daily stand-up meeting  
+
+5- Qu'est-ce qu'une rétrospective ?  
+**Une analyse détaillée du sprint pour relever ce qui a fonctionné et ce qui doit être corrigé**  
+Un résumé des meilleurs moments de carrière d'un collègue  
+Un processus de formation à la méthode Agile  
+La réponse D  
+
+6- Parmi ces propositions, quelle est celle qui fait référence à une méthode Agile ?  
+Scrumbag  
+Cabas  
+Kaban  
+**Scrumban**  
+
+7- Le product backlog est…  
+Un mot de passe qui permet de renforcer la confidentialité d'un projet  
+**Un recueil qui contient tous les besoins du client que l'équipe projet doit réaliser**  
+Un numéro de série écrit au dos d'un produit  
+Un produit qui nécessite une connexion à un back office pour fonctionner  
+
+8- Laquelle de ces propositions ne fait pas partie de la liste des 4 valeurs fondamentales du manifeste Agile ?  
+L'adaptation au changement  
+**Le travail avant l'homme**  
+La collaboration avec les clients  
+Des logiciels opérationnels  
+
+9- Combien de principes fondateurs contient le manifeste Agile ?  
+4  
+10  
+**12**  
+16  
+
+10- Qu'est-ce que le daily stand-up meeting ?  
+Une petit point pour se raconter des blagues afin de détendre l'atmosphère  
+Une réunion quotidienne pour partager les dernières news issues de la veille de chacun  
+**Un point quotidien de 15mn maximum pour échanger sur les tâches de la veille et celle d'aujourd'hui**  
+Une réunion quotidienne debout et dès 9h, qui fait office de réveil musculaire  
+
+11- Qui est le cofondateur de Scrum ?  
+**Ken Schwaber**  
+John Snaugh  
+Larry Page  
+Pep Guardiola  
+
+12- Quels sont les 3 pilliers de Scrum ?  
+L'échange, l'autonomie, la dérision  
+La cohésion, le labeur, la réflexion  
+**La transparence, l'inspection, l'adaptation**  
+La gouvernance, la ponctualité, la productivité  
+
+13- En agilité, quel terme est utilisé pour désigner un cycle de développement ?  
+Une race  
+Un fast & furious  
+**Un sprint**  
+
+14- Laquelle de ces missions n’est PAS celle d’un Product Owner ?  
+Partager la vision produit  
+Gérer le backlog  
+**Faciliter le travail de l’équipe**  
+Maximiser le ROI  
+
+15- Quelle cérémonie permet de présenter les fonctionnalités produits réalisées lors du sprint aux parties prenantes ?  
+Le sprint planning  
+Le daily scrum meeting  
+**La revue de sprint**  
+La rétrospective  
+
+16- Quand à lieu la rétrospective ?  
+Avant le sprint, pour partir sur de bonnes bases  
+Au milieu du sprint, pour faire le point et améliorer ce qui doit l’être  
+**Après la revue, pour revenir sur le déroulé du sprint**  
