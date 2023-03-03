@@ -707,7 +707,7 @@ Frameboard
 Agile Project Management (Eclipse Plugin, IceScrum, Jira, ScrumWorks)  
 Notion  
 
-[Lien vers l'enregistrement fait par Walid]()
+[Lien vers l'enregistrement fait par Walid](https://drive.google.com/drive/folders/1odLQTQazqVBMiL1TDMvwUeVmdlFcJHVR)
 
 # User Story  
 
@@ -821,4 +821,3 @@ Limiter le volume maximum de tâches en cours à une des étapes du flux permet 
 Méthodes Kanban gagnent à être complétée par d'autres pratiques agiles comme le Stand-up meeting
 
 ![Exemple pour le Kanban](images/schema-kanban-2.jpg)
-
