@@ -707,7 +707,8 @@ Frameboard
 Agile Project Management (Eclipse Plugin, IceScrum, Jira, ScrumWorks)  
 Notion  
 
-[Lien vers l'enregistrement fait par Walid](https://drive.google.com/drive/folders/1odLQTQazqVBMiL1TDMvwUeVmdlFcJHVR)
+-- Lien vers l'enregistrement fait par Walid sur le discord
+
 
 # User Story  
 
